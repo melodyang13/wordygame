@@ -44,7 +44,7 @@ Installation
    	‣ python --version 
  	‣ omniidl -u 
 
-• Clone the repository : https://gitlab.com/ramecaba/finalproject7_900-1030tf_other.git
+• Clone the repository : https://github.com/melodyang13/wordygame
 
 • Add Python 3.8 as a Python Interpreter in Pycharm and download the necessary packages: 
  
